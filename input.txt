@@ -1,0 +1,5 @@
+NCCCCC(CC)CCO
+NCCC(CC(C)C1)CC1CCOC
+N#CCCCC(CC)CC=O
+O=C1NCC[C@H]1C[C@@H](C#N)NC([C@H]2N(C[C@@]3([H])[C@]2([H])C3(C)C)C([C@H](C(C)(C)C)NC(C(F)(F)F)=O)=O)=O
+O=C([C@H](C[C@@H](C#N)NC([C@H]1N(C[C@@]2([H])[C@]1([H])C2(C)C)C([C@H](C(C)(C)C)NC(C(F)(F)F)=O)=O)=O)CC)N
