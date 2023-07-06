@@ -22,6 +22,6 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-All rights, excluding the right to authorship, are declined.
-<https://unlicense.org/>
+MIT License
+<https://github.com/mGGDrGooSe/ModBeeMurcko/blob/main/README.md>
 
