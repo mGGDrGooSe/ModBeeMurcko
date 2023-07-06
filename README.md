@@ -23,5 +23,5 @@ Please adhere to this project's `code of conduct`.
 ## License
 
 MIT License
-<https://github.com/mGGDrGooSe/ModBeeMurcko/blob/main/README.md>
+<https://github.com/mGGDrGooSe/ModBeeMurcko/blob/main/README.md>](https://github.com/mGGDrGooSe/ModBeeMurcko/blob/main/LICENSE.md)https://github.com/mGGDrGooSe/ModBeeMurcko/blob/main/LICENSE.md
 
