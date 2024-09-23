@@ -1,5 +1,5 @@
 # ToBeFixed: The counting of similars above a certain threshold is wrong - it appears to be counting itself. So that needs to fixed.
-#
+# Additional features to add: separating out exacts for non-redundant output (optional)
 import pandas as pd
 import numpy as np
 from rdkit import Chem
